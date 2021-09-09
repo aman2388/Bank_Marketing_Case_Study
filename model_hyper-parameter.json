@@ -1,0 +1,1 @@
+{"classifier": "RandomForest", "rf_n_estimators": 649, "rf_max_depth": 31, "rf_bootstrap": false, "Training set score after cv (5): ": [0.9458401305057096]}
